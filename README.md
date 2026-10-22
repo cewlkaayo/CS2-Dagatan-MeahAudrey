@@ -8,7 +8,7 @@
 - input: Accepts any name and previous and current reading
 - process: calculates electricity consumption and total bill
 - output: customers name, electricity consumption, and total bill
-- 
+  
  
 
   
